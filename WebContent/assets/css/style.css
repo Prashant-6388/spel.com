@@ -459,8 +459,8 @@ input:-ms-input-placeholder {
 .navbar-default {
     background-color:#000000;
     border-color:0;
-    height:95px;
-    padding-top:25px;
+    height:55px;
+    padding-top:10px;
 }
 
 .navbar {
@@ -471,9 +471,11 @@ input:-ms-input-placeholder {
 }
 
 .navbar-default .navbar-nav>li>a {
-    font-size:14px;
+    font-size:12px;
     text-transform:uppercase;
     color:whitesmoke;
+    padding-top: 6px;
+    padding-bottom: 7px;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -1355,7 +1357,7 @@ input:-ms-input-placeholder {
 }
 .copyright-footer{
     background:#0d0d0d;
-    padding:20px 0;
+    /* padding:20px 0; */
 }
 .copyright-footer .copyright p{
     color:#595959;
