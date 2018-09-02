@@ -253,7 +253,7 @@ section .subtitle-half h5 {
 .overlay {
     background-color: rgba(256, 256, 256, 1);
     width: 100%;
-    min-height: 750px;
+    /* min-height: 750px; */
 }
 .overlay-fluid-block {
     background-color: rgba(0, 0, 0, 0.5);
